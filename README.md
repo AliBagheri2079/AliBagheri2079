@@ -49,7 +49,6 @@
 ![Spline](https://img.shields.io/badge/-Spline-F83AF3?style=flat-square&logo=spline)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-43436B?style=flat-square&logo=chart.js)
 ![D3.js](https://img.shields.io/badge/-D3.js-43436B?style=flat-square&logo=d3.js)
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-1B1B1F?style=flat-square&logo=vite)
@@ -73,7 +72,6 @@
 ![React-Router](https://img.shields.io/badge/-ReactRouter-121212?style=flat-square&logo=react-router)
 ![TanStack-Router](https://img.shields.io/badge/-TanStackRouter-111827?style=flat-square&logo=tanstack-router)
 ![I18Next](https://img.shields.io/badge/-I18Next-FFFFFF?style=flat-square&logo=i18next)
-
 ![npm](https://img.shields.io/badge/-npm-1C2128?style=flat-square&logo=npm)
 ![yarn](https://img.shields.io/badge/-yarn-FFFFFF?style=flat-square&logo=yarn)
 ![pnpm](https://img.shields.io/badge/-pnpm-1B1B1D?style=flat-square&logo=pnpm)
