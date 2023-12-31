@@ -1,3 +1,5 @@
+![Banner Image](./github-banner.png)
+
 <h3 align="center">Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm a Front-end developer 👨🏻‍💻 from Tehran, Iran who loves to create for the web 🌐.</h3>
 
 <p align="center">
